@@ -65,4 +65,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/nek000/distrobox-template:${{ env.VERSION }}
+          tags: ghcr.io/nek000/distrobox-work:${{ env.VERSION }}
